@@ -13,11 +13,7 @@ I am Ayken, a PhD student studying human population genetics at the Department o
 |-----:|---------------|
 |     1|         Python      |
 |     2|          R     |
-|     3|           Shell    |
 
-
-
-### Hi there 👋
 
 <!--
 **Tastulek/Tastulek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
