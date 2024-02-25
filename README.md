@@ -6,8 +6,7 @@
 
 ## About Me
 
-Hello, 
-I am Ayken, a PhD student studying human population genetics at the Department of Integrative Biology, University of Wisconsin-Madison.
+I am a PhD student studying human population genetics at the Department of Integrative Biology, University of Wisconsin-Madison.
 
 | Rank | Programming Languages |
 |-----:|---------------|
